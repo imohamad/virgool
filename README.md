@@ -1,5 +1,5 @@
 ## Virgool Data
-[![badge](https://img.shields.io/badge/npm-1.0-red.svg)](https://www.npmjs.com/package/nodedata)  [![badge](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/imohamad/nodejs-virgool-scraper/blob/master/LICENSE)
+[![badge](https://img.shields.io/badge/npm-1.0-red.svg)](https://www.npmjs.com/package/virgool-data)  [![badge](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/imohamad/nodejs-virgool-scraper/blob/master/LICENSE)
 
 package for getting data of posts and user profile from [virgool.io](https://virgool.io)
 ## Installation
