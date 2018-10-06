@@ -4,7 +4,7 @@
   "description": "scrap data with virgool.io",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon hala.js"
   },
   "author": "MohamadReza Deylami",
   "license": "MIT",
