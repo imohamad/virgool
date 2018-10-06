@@ -6,7 +6,7 @@ const port = process.env.PORT || 3000;
 
 
 app.get("/", (req, res, next) => {
-    scraper.loadPosts().then(posts => {
+    scraper.getPosts().then(posts => {
         res.json({
             status: true,
             count: posts.length,
@@ -15,11 +15,11 @@ app.get("/", (req, res, next) => {
     });
 });
 
-app.get("/search/:title", (req, res, next) => {
-    scraper.searchPost(req.params.title).then(search => {
+app.get("/user/:username", (req, res, next) => {
+    scraper.getProfile(req.params.username).then(user => {
         res.status(200).json({
             status: true,
-            posts: search
+            user: user
         });
     });
 });
