@@ -1,16 +1,24 @@
 {
-  "name": "virgool-scraper",
+  "name": "virgool-data",
   "version": "1.0.0",
-  "description": "scrap data with virgool.io",
+  "description": "package for getting data of posts and user profile from virgool.io",
+  "keywords": [
+    "virgool",
+    "blog",
+    "nodejs"
+],
   "main": "index.js",
   "scripts": {
-    "start": "nodemon hala.js"
+    "start": "index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imohamad/virgool-data"
+},
   "author": "MohamadReza Deylami",
   "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
-    "express": "^4.16.3",
     "node-fetch": "^2.2.0"
   }
 }
