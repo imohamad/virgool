@@ -12,10 +12,11 @@ package for getting data of posts and user profile from [virgool.io](https://vir
     virgoolData.getPosts().then(posts => console.log(posts));
     
     //get user data - username must be without "@"
-    virgoolData.getProfile("imohamad").then(user => console.log(user));
+    //ex: const = username = "imohamad";
+    virgoolData.getProfile(username).then(user => console.log(user));
 enjoy! 🤘
     
 
 ## Further help
 
-visit [imohamad](http://imohamad.ml) or send e-mail: [mohamad.partizan@gmail.com](mailto:mohamad.partizan@gmail.com)
+visit [imohamad](http://imohamad.github.com) or send e-mail: [mohamad.partizan@gmail.com](mailto:mohamad.partizan@gmail.com)
