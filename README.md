@@ -73,7 +73,7 @@ profile output:
 
     /* 
     get user data - username must be without "@"
-    ex: const = username = "imohamad";
+    ex: const username = "imohamad";
     virgoolData.getProfile(username).then(user => console.log(user));
     */
     
