@@ -1,6 +1,6 @@
 {
   "name": "virgool-data",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "package for getting data of posts and user profile from virgool.io",
   "keywords": [
     "virgool",
@@ -24,7 +24,6 @@
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "lodash": "^4.17.11",
     "mocha": "^5.2.0"
   }
 }
