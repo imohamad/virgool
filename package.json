@@ -1,6 +1,6 @@
 {
   "name": "virgool-data",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "package for getting data of posts and user profile from virgool.io",
   "keywords": [
     "virgool",

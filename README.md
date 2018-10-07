@@ -5,7 +5,7 @@
 
   
 
-[![badge](https://img.shields.io/badge/npm-1.0.4-red.svg)](https://www.npmjs.com/package/virgool-data)  [![badge](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/imohamad/virgool-data/blob/master/LICENSE)  [![build passing](https://api.travis-ci.org/imohamad/virgool-data.svg?branch=master)](https://travis-ci.org/imohamad/virgool-data)
+[![badge](https://img.shields.io/badge/npm-1.0.5-red.svg)](https://www.npmjs.com/package/virgool-data)  [![badge](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/imohamad/virgool-data/blob/master/LICENSE)  [![build passing](https://api.travis-ci.org/imohamad/virgool-data.svg?branch=master)](https://travis-ci.org/imohamad/virgool-data)
 
   
   
