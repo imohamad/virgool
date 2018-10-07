@@ -1,21 +1,30 @@
+
 ## Virgool Data
-[![badge](https://img.shields.io/badge/npm-1.0-red.svg)](https://www.npmjs.com/package/virgool-data)  [![badge](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/imohamad/virgool-data/blob/master/LICENSE)
+
+[![badge](https://img.shields.io/badge/npm-1.0.4-red.svg)](https://www.npmjs.com/package/virgool-data)  [![badge](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/imohamad/virgool-data/blob/master/LICENSE) [![build passing](https://api.travis-ci.org/imohamad/virgool-data.svg?branch=master)](https://travis-ci.org/imohamad/virgool-data)
+
 
 package for getting data of posts and user profile from [virgool.io](https://virgool.io)
+
 ## Installation
-    npm install virgool-data
+
+npm install virgool-data
+
 ## Usage
 
-    const virgoolData = require("virgool-data");
-    
-    //get posts data
-    virgoolData.getPosts().then(posts => console.log(posts));
-    
-    //get user data - username must be without "@"
-    //ex: const = username = "imohamad";
-    virgoolData.getProfile(username).then(user => console.log(user));
+const virgoolData = require("virgool-data");
+
+//get posts data
+
+virgoolData.getPosts().then(posts => console.log(posts));
+
+//get user data - username must be without "@"
+
+//ex: const = username = "imohamad";
+
+virgoolData.getProfile(username).then(user => console.log(user));
+
 enjoy! 🤘
-    
 
 ## Further help
 
