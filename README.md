@@ -32,7 +32,7 @@ package for getting data of posts and user profile from [virgool.io](https://vir
     virgoolData.getPosts().then(posts => console.log(posts));
     
     //get user data - username must be without "@"
-    //ex: const = username = "imohamad";
+    //ex: const username = "imohamad";
     virgoolData.getProfile(username).then(user => console.log(user));
 
 
@@ -44,10 +44,7 @@ posts output:
     */
     
     //output:
-    {
-        "status": boolean, // true for success, false for error
-        "count": number, // number of posts
-        "posts": [
+         [
             {
                 "title": string, //تیتر مطلب
                 "link": string, //لینک مطلب
@@ -67,6 +64,7 @@ posts output:
             {
               ...
             }
+         ]
   
 
 profile output:
@@ -78,9 +76,7 @@ profile output:
     */
     
     //output:
-    {
-        "status": boolean, // true for success, false for error
-        "posts": [
+     [
             {
                 "name": string, // نام نویسنده
                 "username": string, // نام کاربری نویسنده
@@ -103,8 +99,8 @@ profile output:
                     }
                 ]
             }
-        ]
-    }
+    ]
+    
 
 
 
