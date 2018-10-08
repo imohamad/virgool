@@ -35,7 +35,7 @@ package for getting data of posts and user profile from [virgool.io](https://vir
     virgoolData.getProfile(username).then(user => console.log(user));
 
 
-posts output:
+**posts output:**
 
     /* 
     get posts data
@@ -66,7 +66,7 @@ posts output:
          ]
   
 
-profile output:
+**profile output:**
 
     /* 
     get user data - username must be without "@"
