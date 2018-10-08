@@ -37,6 +37,7 @@ src/**/*.js
 npm-debug.log
 testem.log
 /typings
+/.nyc_output
 package-lock.json
 
 # e2e
