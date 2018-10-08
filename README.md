@@ -3,7 +3,6 @@
 
 ## Virgool Data
 
-  
 
 [![badge](https://img.shields.io/badge/npm-1.0.7-red.svg)](https://www.npmjs.com/package/virgool-data)  [![badge](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/imohamad/virgool-data/blob/master/LICENSE)  [![build passing](https://api.travis-ci.org/imohamad/virgool-data.svg?branch=master)](https://travis-ci.org/imohamad/virgool-data) [![Coverage Status](https://coveralls.io/repos/github/imohamad/virgool-data/badge.svg?branch=master)](https://coveralls.io/github/imohamad/virgool-data?branch=master)
 
