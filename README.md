@@ -112,5 +112,5 @@ enjoy! 🤘
 
   
 
-visit [imohamad](http://imohamad.github.com) or send e-mail: [mohamad.partizan@gmail.com](mailto:mohamad.partizan@gmail.com)
+visit [mohamad](https://mohamad.js.org) or send e-mail: [deylami.developer@gmail.com](mailto:deylami.developer@gmail.com)
 
